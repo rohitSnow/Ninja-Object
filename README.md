@@ -40,7 +40,7 @@ _Add game screenshots here for better visual appeal_
 
 **Rohit Panwar**  
 Unity & XR Developer | Exploring .NET & Cybersecurity  
-🌐 [Portfolio (Notion)](https://www.notion.so/your-notion-link)  
+🌐 [Portfolio (Notion)](https://false-nerine-dc0.notion.site/Rohit-Panwar-22360f9b141180858b0be5a94f2175c4)  
 🔗 [GitHub](https://github.com/rohitSnow)
 
 ---
