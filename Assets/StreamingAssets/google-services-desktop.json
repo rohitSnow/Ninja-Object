@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837250627646",
+    "project_id": "ninja-object",
+    "storage_bucket": "ninja-object.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837250627646:android:311893e3ed376b42d1396f",
+        "android_client_info": {
+          "package_name": "com.Manav.NinjaObject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2bfnh4LWn8ehGPl6jX8qAUv8arrvsp0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
