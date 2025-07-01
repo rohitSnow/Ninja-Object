@@ -26,7 +26,7 @@ A fast-paced object-destroying mobile game where players must tap flying objects
 ## 📦 Download
 
 - 🔗 [Download APK (Google Drive)](https://drive.google.com/file/d/1OiFOecanlfNGL01d4qya64HrSazIUTM9/view?usp=drive_link)
-- 🕹 [Play on Itch.io](https://yourgame.itch.io/ninja-object) *(if uploaded)*
+- 🕹 [Play on Itch.io](https://rohit-panwar.itch.io/ninja-object) 
 
 ---
 
